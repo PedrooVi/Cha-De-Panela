@@ -1,11 +1,13 @@
 
 # Lista para Chá de Panela
 
-Este projeto, consiste em simular uma lista com sugestões de presentes para um chá de panela.
+Este projeto visa criar uma lista interativa de sugestões de presentes para um chá de panela, com o objetivo de facilitar a escolha de presentes ideais para os convidados e organizar o evento de maneira eficiente.
 
-O projeto tem a finalidade dar sugestões sugerir e auxiliar os convidados na escolha de um presente ideal, para a pessoa que irá realizar um chá de casa nova.
+Ao acessar a lista, os convidados poderão ver uma variedade de sugestões de presentes cuidadosamente selecionados. Cada sugestão virá com uma descrição e um link para um modelo específico escolhido pelo organizador do evento.
 
-Ao escolher o presente,  o convidado é direcionado ao WhatsApp com uma menssagem contendo o nome do presente escolhido e um link com um modelo definido por quem vai realizar a festa. Ajudando assim os convidados com sugestões de presentes, e ajudando o realizador da festa, a ter noção dos presentes escolhidos, para que não haja presentes repetidos.
+Quando um convidado escolhe um presente, ele será automaticamente direcionado para o WhatsApp, onde uma mensagem pré-formatada será gerada. Esta mensagem conterá o nome do presente escolhido e um link para o modelo sugerido. Isso ajuda a garantir que o organizador saiba quais presentes foram escolhidos e evita a duplicação de itens.
+
+Este sistema simplifica a escolha de presentes para os convidados e proporciona ao organizador uma visão clara dos presentes selecionados, tornando o planejamento do chá de panela mais organizado e eficiente.
 
 ## Tecnologias utilizadas.
 
